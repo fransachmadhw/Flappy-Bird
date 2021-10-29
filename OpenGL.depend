@@ -95,3 +95,15 @@
 	<GL/gl.h>
 	<GL/glu.h>
 
+1635216690 source:d:\3rd term\computer graphics\flappy bird\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1566226241 d:\3rd term\computer graphics\flappy bird\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
